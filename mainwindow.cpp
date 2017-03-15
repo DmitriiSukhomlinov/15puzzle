@@ -51,6 +51,7 @@ MainWindow::MainWindow(QWidget *parent) :
 MainWindow::~MainWindow()
 {
     delete ui;
+    delete m_Animation;
 }
 
 void MainWindow::mousePressEvent(QMouseEvent *event)
