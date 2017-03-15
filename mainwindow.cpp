@@ -1,7 +1,5 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
-#include <QPixmap>
-#include <QLabel>
 #include <QMouseEvent>
 #include <QPropertyAnimation>
 #include <QMessageBox>
