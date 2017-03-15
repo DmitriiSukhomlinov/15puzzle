@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="01">Numbers/1.png</file>
+        <file alias="02">Numbers/2.png</file>
+        <file alias="03">Numbers/3.png</file>
+        <file alias="04">Numbers/4.png</file>
+        <file alias="05">Numbers/5.png</file>
+        <file alias="06">Numbers/6.png</file>
+        <file alias="07">Numbers/7.png</file>
+        <file alias="08">Numbers/8.png</file>
+        <file alias="09">Numbers/9.png</file>
+        <file alias="10">Numbers/10.png</file>
+        <file alias="11">Numbers/11.png</file>
+        <file alias="12">Numbers/12.png</file>
+        <file alias="13">Numbers/13.png</file>
+        <file alias="14">Numbers/14.png</file>
+        <file alias="15">Numbers/15.png</file>
+        <file alias="icon">Numbers/icon.png</file>
+        <file alias="iconVic">Numbers/iconVic.png</file>
+    </qresource>
+</RCC>
